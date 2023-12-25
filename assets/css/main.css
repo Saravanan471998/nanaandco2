@@ -1750,3 +1750,14 @@ section {
     width: 0;
   }
 }
+
+
+.paran {
+  font-size:xx-large;
+}
+
+@media (max-width: 768px) {
+  .paran {
+     font-size: large;
+  }
+}
